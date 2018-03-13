@@ -33,7 +33,6 @@ msgpack-python==0.5.4
 openpyxl==2.5.0
 psycopg2==2.7.4
 PyJWT==1.5.3
-pypiwin32==220
 pytz==2018.3
 redis==2.10.6
 six==1.11.0
